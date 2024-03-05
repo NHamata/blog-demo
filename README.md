@@ -3,8 +3,8 @@ To circumvent any security risks with previous commits, this project is uploaded
 
 This is a Blog application built with a microservice architecture. The event broker is scratch built. This project serves as an indepth exploration to the implementation of a microservice application, hence the inline comment and notes.
 
-It requires skaffold, docker, kubernetes, in the appropriate packages for you operating system.
+It requires skaffold, docker, kubernetes, in the appropriate packages for your operating system.
 
-In order to run use the command in the root directory:
+In order to run this application use the command in the root directory:
 
 ```skaffold dev```
